@@ -1,0 +1,46 @@
+body{
+    background-color:rgba(47, 79, 79, 1 );
+}
+
+#überschrift{
+    color: aliceblue;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+#titel{
+    
+    margin-left: 100px;
+    font-size: xx-large;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#lspielchen{
+    position: absolute;
+    width: 1000px;
+   
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#lschule{
+    position: absolute;
+    width: 1000px;
+    
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#lversuch{
+    position: absolute;
+    width: 1000px;
+    
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#lvieren{
+    position: absolute;
+    width: 1000px;
+    
+    margin-top: 20px;
+    margin-left: 400px;
+}
